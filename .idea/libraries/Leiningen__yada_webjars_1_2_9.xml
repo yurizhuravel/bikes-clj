@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: yada/webjars:1.2.9">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/yada/webjars/1.2.9/webjars-1.2.9.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
